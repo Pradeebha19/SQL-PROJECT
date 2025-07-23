@@ -1,7 +1,6 @@
-# SQL-PROJECT
 # Sales Analytics Dashboard for a Retail Store (SQLite + Streamlit)
 
-Welcome to the **Retail Sales Insights Dashboard** – an interactive data analytics project that combines the power of SQL with modern data visualization using **Streamlit**. This project showcases your ability to extract insights from sales data and present them through a dynamic dashboard.
+Welcome to the **Sales Analytics Dashboard for a Retail Store** – an interactive data analytics project that combines the power of SQL with modern data visualization using **Streamlit**. This project showcases your ability to extract insights from sales data and present them through a dynamic dashboard.
 
 ---
 
